@@ -49,6 +49,38 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 
+# Project Requirements: Building the Data Warehouse (Data Engineering)
+
+## Objective
+Develop a **modern data warehouse** using **SQL Server** to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+---
+
+## Specifications
+
+### 1. Data Sources
+- Import data from **two source systems**:  
+  - **ERP** (CSV file)  
+  - **CRM** (CSV file)
+
+### 2. Data Quality
+- Perform **data cleansing**.  
+- Resolve **data quality issues** prior to analysis.
+
+### 3. Integration
+- **Combine** both sources into a **single, user-friendly data model**.  
+- Ensure the model is designed for **analytical queries**.
+
+### 4. Scope
+- Focus only on the **latest dataset**.  
+- **Historization of data is not required**.
+
+### 5. Documentation
+- Provide clear **documentation of the data model**.  
+- Documentation should support both:  
+  - **Business stakeholders**  
+  - **Analytics teams**
+
 
 
 
